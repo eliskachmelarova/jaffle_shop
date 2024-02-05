@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: WORKSPACE_62430095
+    database: KEBOOLA_18796
+    schema: WORKSPACE_62430095
+    tables:
+      - name: "activities"
+
